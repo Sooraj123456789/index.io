@@ -1,0 +1,81 @@
+<html>
+
+ <body>
+  <table width="800" border="0" align="center" cellpadding="5">
+   <tr>
+   <p align=center><img src="https://lh3.googleusercontent.com/B_9t_rhrBDqtM_HSMXwXQuBQkBf5FHzxHHceNz0aPNUeoVV5bCbCocRUN2vjPHobX4JnhpzwKQH8VTIcWsZt_nJDYmaSJgeZqzoZ5gQklzgKywOmEmcV5j_p25bTayMdN1sVMGbaWXz3hehtSbpNGaynHEVhnRJ22fglg22UJ-r4mjSmE8yyPSzOVjGe8ERnwjaxhDaL0As8mmpNC4_vtCP3GdvgxAOFL8FbSNtYhk79uBgBzLzhu_eltkhB0q6lWPkQYUtrucv8l68PLz1ynuNLwAkr1OKd-Krnn3_rl1CIC5TDs7-dQNNCMtF2qmwN_dXEBSHyTZ6CEFnObLFe0vzarzMSeFKAhkhot_nIXnPXOK6rf9gIOI_YFjzLjltBPoHwQ4uu5ivi92YNpazxh_TZaCPzH7yBfY8t-x60qaWGOsBpehoKdsXc-4237UGRG1vIayM_4KpLeV8VNqOm3v4nENgt5wS6xj6NFiPMAfnPWLCdU5RkfsAB0t8c_ndred3VD4_Wz0xrhndU29eRhiJfjAj4pO8W9nIG2bfJ4fRArUsGdB8XkX0-6nxRA3SG9fPwwE1iT_nvqYP72WXFLSV2SMyV_sMt0cL9rFU4E-KfEYqdoI_3VpStA72QPGMgMPp6vZPF7ntsLFX4deA06qbB0MUJRtDtcpv51HtoxmrRbEy-BHv0y3DCRbCxM1yQL8OT7sephSybVoieRAKN58zFUA=w750-h903-no?authuser=0"alt="sooraj" height=20%/></p>
+    <td colspan="2">Basic Info<hr/></td>
+   </tr>
+   <tr>
+    <td width="50%" align="right">Full Name:</td>
+    <td>SOORAJ SUDEESH</td>
+   </tr>
+   <tr>
+    <td align="right">Age:</td>
+    <td>18 Years</td>
+   </tr>
+   <tr>
+    <td align="right">Date of Birth:</td>
+    <td>21-11-2002</td>
+   </tr>
+   <tr>
+    <td align="right">Blood Group:</td>
+    <td>B+</td>
+   </tr>
+   <tr>
+    <td align="right">Nationality:</td>
+    <td>Indian</td>
+   </tr>
+   <tr>
+    <td align="right">Rilegion:</td>
+    <td>Hindu</td>
+   </tr>
+   <tr>
+    <td colspan="2">Contact Details<hr/></td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Address:</td>
+    <td>Mangalathu(h)</br>
+    Veliyannoor(po)</br>
+    Kottayam</td>
+   </tr>
+   <tr>
+    <td align="right" valign="top">Phone Number:</td>
+    <td>8590353102</td>
+   </tr>
+   <tr>
+    <td align="right">Email Address:</td>
+    <td>soorajofficial2002@gmail.com</td>
+   </tr>
+   <tr>
+    <td colspan="2">Eduction<hr/></td>
+   </tr>
+   <tr>
+    <td align="right"valign="top">Eduction:</td>
+    <td>Currently Studing on Computer Engineering Diploma</br>
+     Completed Higher Secondary in OLL HSS Uzhavoor</br>
+     Completed High School in ST Annes HSS Kurianad</br>
+   </tr><tr>
+    <td align="right"valign="top">Other Knowledge:</td>
+    <td>Ms Office, Programming laguages(c,c++,java,sql), Photoshop</td>
+   </tr><tr>
+    <td align="right"valign="top">Hobbies:</td>
+    <td>Photo editing,football,Travelling,video games</td>
+   </tr>
+   <tr>
+    <td colspan="2">Laguage<hr/></td>
+   </tr>
+   <tr>
+   <td align="right">language:</td>
+   <td>Engkish,Malayalam,Hindi</td>
+   </tr>
+   <tr>
+    <td colspan="2">About Me<hr/></td>
+   </tr>
+   <tr>
+    <td colspan="2">I am a hard working person and possess exelent time keeping skills.<hr/></td>
+   </tr>
+  </table>
+ </body>
+
+</html>
